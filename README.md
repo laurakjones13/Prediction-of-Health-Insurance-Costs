@@ -1,2 +1,2 @@
 # Prediction-of-Health-Insurance-Costs
-Analyzed health insurance data using descriptive and inferential statistics to predict individual medical costs.
+The goal of this project is to determine which features are statistically significant predictors of individual medical costs billed by health insurance, using both descriptive and inferential statistics. 
